@@ -2357,7 +2357,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Nuestra empresa ofrece un servicio profesional y especializado en instalaciones de fontanería, con amplia experiencia en reformas y modificaciones parciales o integrales, mirando siempre la sencillez para el cliente. Contamos con un equipo humano y técnico adaptado a las necesidades del cliente y al avance de la tecnología.\n<br>• Instalación de calentadores de gas.\n• Roturas, fugas, goteras, humedades.\n• Cambio y sustitución de grifería.Sustitución de aparatos sanitarios.<br>• Sustitución de mecanismos de cisternas.\n<br>• Sustitución de termos eléctricos.\n• Desatasco de desagües..",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">ДЛЯ WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">ДЛЯ MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">ДЛЯ WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">ДЛЯ MAC</a>",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
@@ -2374,7 +2375,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Estamos preparados para atender cualquier servicio relacionado con el mundo de la electricidad y los servicios derivados, siempre con la más moderna tecnología y los productos más actuales.\n<br>Gracias a un equipo cualificado se han conseguido crear entornos cada vez más atractivos, ya que la iluminación ha ganado en importancia al ser un elemento esencial para acentuar las formas, el colorido y en definitiva realzar la expresividad propia de cada espacio.\n• Renovación completa de la instalación de baja tensión.\n• Renovación o sustitución de cuadro eléctrico y componentes.\n• Cambio y sustitución de mecanismos (interruptores, enchufes, potenciómetros, etc.).\n• Estudio de iluminación.\n• Instalación nueva o sustitución unidades de iluminación LED.\n• Renovación de elementos de iluminación en zonas comunes por LED paca comunidades de vecinos.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">ДЛЯ WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">ДЛЯ MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">ДЛЯ WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">ДЛЯ MAC</a>",
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1820x1080.jpg",
